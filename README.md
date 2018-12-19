@@ -1,6 +1,6 @@
 # Algothon
 
-Submission for Algothon 2018's [Kaggle Reuters NLP Challenge](https://www.kaggle.com/c/algothon-2018). 
+Submission for the [Kaggle Reuters NLP Challenge](https://www.kaggle.com/c/algothon-2018) in [Algothon 2018](http://algothon.org/), organised by Imperial College Algorithmic Trading Society and BlackRock UK  
 
 <br>
 
